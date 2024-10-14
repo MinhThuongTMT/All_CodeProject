@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "987242241775",
+    "firebase_url": "https://fir-e1749-default-rtdb.firebaseio.com",
+    "project_id": "fir-e1749",
+    "storage_bucket": "fir-e1749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987242241775:android:34244d6db96592d8bb851a",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuHe_yzVO22AfUaHP69vMcBOiebocnc4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
